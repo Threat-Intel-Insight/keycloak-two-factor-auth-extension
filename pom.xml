@@ -37,7 +37,7 @@
         <dependency>
             <groupId>org.keycloak</groupId>
             <artifactId>keycloak-model-jpa</artifactId>
-            <version>21.04</version>
+            <version>21.0.1</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
